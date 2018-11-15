@@ -1,0 +1,11 @@
+name: "Developing skills in R"
+output_dir: "."
+navbar:
+  title: "Developing skills in R"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Course Info"
+      icon: fa-info
+      href: about.html
